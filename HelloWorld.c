@@ -7,3 +7,9 @@ int main(   ){
     printf("Mod HelloWorld.c");
     return 1;
 }
+
+int mul(int a,int b){
+
+    return a*b;
+    
+}
